@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/brunotrolo/Salesforce_Archaeologist?style=flat-square&color=00A1E0&label=stars" alt="Stars">
+  <img src="https://img.shields.io/github/stars/brunotrolo-bank/Salesforce_Archaeologist?style=flat-square&color=00A1E0&label=stars" alt="Stars">
   <img src="https://img.shields.io/badge/subagentes-4-04E1C2?style=flat-square" alt="4 subagentes">
   <img src="https://img.shields.io/badge/playbooks%20de%20an%C3%A1lise-10-032D60?style=flat-square" alt="10 playbooks de análise">
   <img src="https://img.shields.io/badge/license-MIT-032D60?style=flat-square" alt="MIT License">
@@ -92,7 +92,7 @@ Uma org Salesforce com metadados no formato SFDX Source (`force-app/main/default
 
 ```bash
 # Clone o repositório
-git clone https://github.com/brunotrolo/Salesforce_Archaeologist.git
+git clone https://github.com/brunotrolo-bank/Salesforce_Archaeologist.git
 cd Salesforce_Archaeologist
 ```
 
@@ -295,7 +295,7 @@ Esta skill passou por 6 ciclos de verificação com subagentes paralelos:
 ---
 
 <p align="center">
-  ⭐ <b><a href="https://github.com/brunotrolo/Salesforce_Archaeologist/stargazers">Dê uma star no repo</a></b> para ser avisado quando novas skills e melhorias saírem.
+  ⭐ <b><a href="https://github.com/brunotrolo-bank/Salesforce_Archaeologist/stargazers">Dê uma star no repo</a></b> para ser avisado quando novas skills e melhorias saírem.
 </p>
 
 ---
@@ -312,5 +312,5 @@ Esta skill passou por 6 ciclos de verificação com subagentes paralelos:
 
 ## Relacionado
 
-- **[Salesforce Journey Designer](https://github.com/brunotrolo/Salesforce_Journey_Designer)** — Skill irmã que especifica, desenha e prototipa jornadas; o Archaeologist faz a engenharia reversa do que já existe
-- **[Salesforce Journey Developer](https://github.com/brunotrolo/Salesforce_Journey_Developer)** — Constrói e deploya o que o Designer especifica
+- **[Salesforce Journey Designer](https://github.com/brunotrolo-bank/Salesforce_Journey_Designer)** — Skill irmã que especifica, desenha e prototipa jornadas; o Archaeologist faz a engenharia reversa do que já existe
+- **[Salesforce Journey Developer](https://github.com/brunotrolo-bank/Salesforce_Journey_Developer)** — Constrói e deploya o que o Designer especifica
